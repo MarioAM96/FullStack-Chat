@@ -34,8 +34,11 @@ npm run dev
 
 This is a demo of this project working 
 
-![Screenshot 2023-04-14 at 11.35.01.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d559677-34da-4af4-825d-23f61c990fbf/Screenshot_2023-04-14_at_11.35.01.png)
+![image](https://user-images.githubusercontent.com/91484233/232105530-a86fc10d-0105-40fe-a454-29b395ec196c.png)
 
-The users of this chat work with the chat engine ****[ChatEngine.io](http://ChatEngine.io)** Connected using its API with Axios.
 
-![Screenshot 2023-04-14 at 11.35.45.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e1781e72-bab2-43a8-aebf-9c2834d1de06/Screenshot_2023-04-14_at_11.35.45.png)
+The users of this chat work with the chat engine **[ChatEngine.io](http://ChatEngine.io)** Connected using its API with Axios.
+
+![image](https://user-images.githubusercontent.com/91484233/232105572-9cd2f3ac-eee4-4d9a-a92d-3648d1d79abd.png)
+
+
